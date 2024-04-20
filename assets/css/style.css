@@ -1,0 +1,59 @@
+.bg-nav{ /*color fondo menu*/
+    background-color: #28A745;
+}
+#navbarNav{ /*centrar a la izquierda menu*/
+    justify-content: end;
+}
+.btn_fmlrio{ /*Centrar boton Enviar*/
+    justify-content: center;
+    display: flex;
+}
+.tit_for{ /*Fuente titulo formulario*/
+    font-size: 21pt;
+    font-style: Roboto, Medium;
+    text-align: center;
+    color: #FFFFFF;
+    opacity: 100%;
+}
+.logo-white{/*Fuente logo blanco Navbar*/
+    width: 86pt;
+    height: 25pt;
+    opacity: 100%;
+
+}
+.logo-black{/*Fuente logo negro footer*/
+    width: 82pt;
+    height: 24pt;
+    opacity: 100%;
+}
+.tar_tit1{/*parrafo 1 tarjeta*/
+    font-family: Roboto, ligth;
+    font-size: 19pt;
+    color: #212529;
+    opacity: 100%;
+}
+.tar_tit2{/*parrafo 2 tarjeta*/
+    font-family: Roboto, Ligth;
+    font-size: 14pt;
+    color: #707070;
+    opacity: 100%;
+}
+.tar_tit3{/*parrafo 3 tarjeta*/
+    font-family: Roboto, Ligth;
+    font-size: 12pt;
+    color: #707070;
+    opacity: 100%;
+}
+.precio1{
+    font-family: Roboto, Ligth;
+    font-size: 16pt;
+    color: #707070;
+    opacity: 100%;
+}
+.precio2{
+    font-family: Roboto, Ligth;
+    font-size: 20pt;
+    color: #28A745;
+    opacity: 100%;
+}
+
